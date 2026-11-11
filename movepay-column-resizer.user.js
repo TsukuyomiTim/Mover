@@ -1,15 +1,17 @@
 // ==UserScript==
 // @name         MovePay - Persistent column widths
-// @namespace    https://github.com/yourusername/movepay-column-resizer
+// @namespace    https://github.com
 // @version      3.1
 // @description  Удерживает и позволяет изменять ширину колонок: Merchant Transaction, Transaction Ref, Transaction Ext, Payment Method на pub.prod.movepay.online
 // @author       NewVicer
-// @match        https://pub.prod.movepay.online/*
+// @match        https://movepay.online*
 // @match        https://*.movepay.online/*
 // @grant        GM_addStyle
 // @run-at       document-end
-// @homepageURL  https://github.com/yourusername/movepay-column-resizer
-// @supportURL   https://github.com/yourusername/movepay-column-resizer/issues
+// @homepageURL  https://github.com
+// @supportURL   https://github.com/issues
+// @updateURL    https://githubusercontent.com
+// @downloadURL  https://githubusercontent.com
 // ==/UserScript==
 
 (function () {
